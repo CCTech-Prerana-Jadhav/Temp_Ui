@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Temp_Ui", "Temp_Ui.vcxproj", "{19639FEF-3B97-4613-BD88-2F7914AA8D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19639FEF-3B97-4613-BD88-2F7914AA8D31}.Debug|x64.ActiveCfg = Debug|x64
+		{19639FEF-3B97-4613-BD88-2F7914AA8D31}.Debug|x64.Build.0 = Debug|x64
+		{19639FEF-3B97-4613-BD88-2F7914AA8D31}.Release|x64.ActiveCfg = Release|x64
+		{19639FEF-3B97-4613-BD88-2F7914AA8D31}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8000A347-CF04-403C-8F70-261C03F614AA}
+	EndGlobalSection
+EndGlobal
